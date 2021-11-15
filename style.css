@@ -20,7 +20,7 @@ body{
     box-sizing: border-box;
     padding:68px 28px;
 }
-.rd{ 
+.usuario{ 
     border-radius: 50%;
     position: absolute;
     top: -50%;
